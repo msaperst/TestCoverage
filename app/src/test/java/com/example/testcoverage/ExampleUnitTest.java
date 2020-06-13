@@ -1,5 +1,7 @@
 package com.example.testcoverage;
 
+import com.example.android.testing.unittesting.basicunitandroidtest.MainActivity;
+
 import org.junit.Test;
 
 import static org.junit.Assert.*;
